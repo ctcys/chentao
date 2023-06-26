@@ -1,2 +1,0 @@
-# chentao
-exercise
